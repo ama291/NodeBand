@@ -1,0 +1,17 @@
+{
+  "name": "BandCollab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "hapi": "^8.8.0",
+    "hapi-auth-cookie": "^3.0.1",
+    "mysql": "^2.8.0"
+  }
+}

@@ -1,0 +1,6 @@
+Things that need to be added:
+song adding
+song editing
+
+Things that need to be fixed:
+username conflicts
